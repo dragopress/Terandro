@@ -1,0 +1,6 @@
+{
+  "name": "Termux CI",
+  "description": "Unified build process and shell abstraction layer for Termux development and GitHub Actions Linux CI without masking real application errors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
